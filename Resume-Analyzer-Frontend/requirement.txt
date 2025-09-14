@@ -1,0 +1,4 @@
+npm install tailwindcss @tailwindcss/vite
+npm install axios
+npm install -D tw-animate-css
+npm install clsx tailwind-merge pdfjs-dist zustand
